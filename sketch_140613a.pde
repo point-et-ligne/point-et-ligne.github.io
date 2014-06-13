@@ -1,7 +1,8 @@
 void setup(){
    size(800,600);
    frameRate(60);
-   noStroke(31,127,255);
+   noStroke();
+   fill(31,127,255);
 }
 
 void draw(){
